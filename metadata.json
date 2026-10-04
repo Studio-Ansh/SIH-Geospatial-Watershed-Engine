@@ -1,0 +1,6 @@
+{
+  "name": "GeoWatershed - Geospatial & Geo-coded Image Platform",
+  "description": "Geo-coded image visualization, 30m satellite data integration, and geospatial change detection platform for watershed development and scientific monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
